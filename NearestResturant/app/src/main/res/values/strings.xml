@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NearestRestaurant</string>
+    <string name="title">Nearest Restaurant</string>
+    <string name="bullet">&#8226;</string>
+    <string name="offers">offers</string>
+    <string name="offer">offer</string>
+</resources>
